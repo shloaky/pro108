@@ -1,0 +1,32 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: azure;
+}
+.header_div{
+    background-color:palevioletred;
+    color: firebrick;
+}
+.header_div p{
+    font-family:'Akronim', cursive;
+    color: aqua;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: darkblue;
+    background-color: honeydew;
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px blue;
+    bottom: 0;
+}
